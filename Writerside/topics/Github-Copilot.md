@@ -11,7 +11,7 @@ GitHub Copilot is an AI-powered code completion tool developed by GitHub in coll
 
 ## Installation and Setup
 Before you can start using Copilot, you need to set up your subscription. To do this, visit https://baseplate.legogroup.io/. From the navigation bar at the top of the page, click on the yellow Tools icon.
-![NavBar.png](NavBar.png)
+![NavBar.png](/Users/dkValMor/Documents/GitHub/valemorra.github.io/Writerside/Images/NavBar.png)
 
 Using the Search Bar within the Tool page look for the GitHub Copilot and click on the GitHub Copilot frame that that appears after conducting the search.
 

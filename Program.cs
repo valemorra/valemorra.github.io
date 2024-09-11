@@ -35,10 +35,10 @@ app.Run();
 
 public static class WebsiteKeys
 {
-    public const string GitHubRepo = "https://github.com/tesar-tech/blazorStaticMinimalBlog";
-    public const string X = "https://x.com/";
-    public const string Title = "BlazorStatic Minimal Blog";
+    public const string GitHubRepo = "https://github.com/valemorra/valemorra.github.io";
+    public const string X = "https://www.linkedin.com/in/valeria-morra-02684b16b/";
+    public const string Title = "Cognitive Biases and Their Impact on UX/UI Design Part 01";
     public const string BlogPostStorageAddress = $"{GitHubRepo}/tree/main/Content/Blog";
-    public const string BlogLead = "Sample blog created with BlazorStatic and TailwindCSS";
+    public const string BlogLead = "Cognitive Biases and Their Impact on UX/UI Design Part 01";
 
 }

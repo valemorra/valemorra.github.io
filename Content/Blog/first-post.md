@@ -51,6 +51,7 @@ The gambler’s fallacy can lead users to make irrational decisions based on per
 
 Stay tuned for part 2! 
 
+by Valeria Morra
 
 
 

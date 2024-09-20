@@ -3,7 +3,6 @@ name: Build and publish to gh pages
 
 on:
   push:
-    branches: [ "*" ]
 env:
   ASPNETCORE_ENVIRONMENT: Production
   WEBAPP_PATH: ./
